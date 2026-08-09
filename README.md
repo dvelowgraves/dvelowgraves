@@ -39,6 +39,8 @@
         </div>
               Still under 18!!! So be aware.
               </div>
+          If I initiate conversations consider yourself very lucky!!!
+          /div>
       </details>
           <img src="https://i.pinimg.com/736x/a1/70/34/a170347d47fc558038393763b9be1dd0.jpg" width="350" alt="Dice Banner">
   
