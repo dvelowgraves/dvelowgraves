@@ -1,12 +1,11 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<img alighn="center" src="https://komarev.com/ghpvc/?username=gamblingcarnivalyearner&style=flat-square&color=a0004c&label=red+team" width="100">
   <tr>
     <td align="center" colspan="2" style="padding-bottom: 15;">
-      <img src="https://komarev.com/ghpvc/?username=gamblingcarnivalyearner&style=flat-square&color=a0004c&label=red+team" width="100" alt="profile view counter">
     </td>
   </tr>
   <tr>
     <td valign="top" style="padding-right: 20;">
-      <img src="https://i.imgur.com/PgySJlj.png" width="600" alt="Framed Character">
+      <img align="left" src="https://i.imgur.com/PgySJlj.png" witdh="450" height="490">
     </td>
     <td valign="bottom" align="left" style="color: #ffffff; font-family: sans-serif; font-size: 14; line-height: 1.5;">
       <p style="margin: 0 0 10 0;">
@@ -39,8 +38,9 @@
           Im trying my best :(
         </div>
       </details>
-      <img src="https://i.pinimg.com/736x/a1/70/34/a170347d47fc558038393763b9be1dd0.jpg" width="350" alt="Dice Banner">
+          <img src="https://i.pinimg.com/736x/a1/70/34/a170347d47fc558038393763b9be1dd0.jpg" width="350" alt="Dice Banner">
+  
 
   </td>
   </tr>
-</table>
+
