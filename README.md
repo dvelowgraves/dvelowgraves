@@ -19,7 +19,7 @@
         & straw (that is a wip right now oops..) ？
       </p>
       <p style="margin: 0 0 10 0;">
-        𖦆⠀ ՙՙ⠀ <img src="https://cdn.discordapp.com/emojis/1515417937731780670.webp?size=40&animated=true" width="20" style="vertical-align: middle;"> ⠀ ⸼⸼ ⠀ ★⠀⠀ 𐑣   𖦆⠀ ՙՙ⠀ <img src="https://cdn.discordapp.com/emojis/1472977081842405616.webp?size=40&animated=true" width="20" style="vertical-align: middle;"> ⠀ ⸼⸼ ⠀ ★⠀⠀ 𐑣   𖦆⠀ ՙՙ⠀ <img src="https://cdn.discordapp.com/emojis/1474817734964674671.webp?size=40&animated=true" width="20" style="vertical-align: middle;"> ⠀ ⸼⸼ ⠀ ★⠀⠀ 𐑣   𖦆⠀ ՙՙ⠀ <img src="https://cdn.discordapp.com/emojis/1508512963915550781.webp?size=40&animated=true" width="20" style="vertical-align: middle;"> ⠀ ⸼⸼ ⠀
+        𖦆⠀ ՙՙ⠀ <img src="https://cdn.discordapp.com/emojis/1515417937731780670.webp?size=40&animated=true" width="20" style="vertical-align: middle;"> ⠀ ⸼⸼ ⠀ ★⠀⠀ 𐑣   𖦆⠀ ՙՙ⠀ <img src="https://cdn.discordapp.com/emojis/1472977081842405616.webp?size=40&animated=true" width="20" style="vertical-align: middle;"> ⠀ ⸼⸼ ⠀ ★⠀⠀ 𐑣   𖦆⠀ ՙՙ⠀ <img src="https://cdn.discordapp.com/emojis/1474817734964674671.webp?size=40&animated=true" width="20" style="vertical-align: middle;"> ⠀ ⸼⸼ ⠀ ★⠀⠀ 𐑣   𖦆⠀ 
       </p>
       <p style="margin: 0 0 15 0;">
         ﹒﹪﹒⫘ ﹒I'M LONELY AND NEED FRIENDS. But I'm often shy to start the friendship, please do not hesitate to c+h or try to initiate a friendship with me
