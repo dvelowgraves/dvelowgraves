@@ -13,7 +13,9 @@
         <img src="https://cdn.discordapp.com/emojis/1474633258867232941.webp?size=40" width="20" style="vertical-align: middle;"> ✷﹚﹪﹕﹕Helloo! It's Vel. (dvelow. on disc)﹗
       </p>
       <p style="margin: 0 0 10 0;">
-        ʬʬ﹒﹒﹙Please sign my ata! Also go check 
+        ʬʬ﹒﹒﹙Please sign my 
+        <a href="https://dvelowbooks.atabook.org/" style="color: #ff6b81; text-decoration: underline; font-weight: bold;">ata</a>
+        ! Also go check 
         <a href="https://pronouns.cc/@dvelowmoney" style="color: #ff6b81; text-decoration: underline; font-weight: bold;">here</a> 
         & straw (that is a wip right now oops..) ？
       </p>
