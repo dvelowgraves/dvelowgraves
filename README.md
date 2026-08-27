@@ -39,9 +39,11 @@
         </div>
               Still under 18!!! So be aware.
               </div>
-          If I initiate conversations consider yourself very lucky!!!
+          If I initiate conversations consider yourself very lucky!!! It took a lot of coaching to do that
           </div>
-      </details>
+      If you made it this far and read all this consider following or sending a message to ata! I promise I'll leave a message too.
+      </div>
+</details>
           <img src="https://i.pinimg.com/736x/a1/70/34/a170347d47fc558038393763b9be1dd0.jpg" width="350" alt="Dice Banner">
   
 
