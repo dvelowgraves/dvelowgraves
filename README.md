@@ -36,8 +36,6 @@
           I want to make friendships with cool people on pony town but I don't know how to start friendships!! 
               <div>
           Im trying my best :(
-        </div>
-              Still under 18!!! So be aware.
               </div>
           If I initiate conversations consider yourself very lucky!!! It took a lot of coaching to do that
           </div>
