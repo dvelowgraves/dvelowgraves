@@ -22,7 +22,7 @@
         𖦆⠀ ՙՙ⠀ <img src="https://cdn.discordapp.com/emojis/1515417937731780670.webp?size=40&animated=true" width="20" style="vertical-align: middle;"> ⠀ ⸼⸼ ⠀ ★⠀⠀ 𐑣   𖦆⠀ ՙՙ⠀ <img src="https://cdn.discordapp.com/emojis/1472977081842405616.webp?size=40&animated=true" width="20" style="vertical-align: middle;"> ⠀ ⸼⸼ ⠀ ★⠀⠀ 𐑣   𖦆⠀ ՙՙ⠀ <img src="https://cdn.discordapp.com/emojis/1474817734964674671.webp?size=40&animated=true" width="20" style="vertical-align: middle;"> ⠀ ⸼⸼ ⠀ ★⠀⠀ 𐑣   𖦆⠀ 
       </p>
       <p style="margin: 0 0 15 0;">
-        ﹒﹪﹒⫘ ﹒I'M LONELY AND NEED FRIENDS. But I'm often shy to start the friendship, please do not hesitate to c+h or try to initiate a friendship with me
+        ﹒﹪﹒⫘ ﹒Im open to make more friends so don't hesitate 2 talk 2 me! Also I like to sit with people that have c+h and are alone! if I sat next to you feel free to approach later or even ask to be friends!
       </p>
       <details style="margin-bottom: 20; cursor: pointer;">
         <summary style="color: #ffffff; list-style: default;">
@@ -37,7 +37,7 @@
               <div>
           Im trying my best :(
               </div>
-          If I initiate conversations consider yourself very lucky!!! It took a lot of coaching to do that
+          If I initiate conversations consider yourself very lucky!!! It took a lot of coaching from my disc friends to do that
           </div>
       If you made it this far and read all this consider following or sending a message to ata! I promise I'll leave a message too.
       </div>
