@@ -1,4 +1,4 @@
-<img alighn="center" src="https://komarev.com/ghpvc/?username=dvelowgraves&style=flat-square&color=a0004c&label=red+team" width="100">
+<img alighn="center" src="https://komarev.com/ghpvc/?username=dvelowgraves&style=flat-square&color=a0004c&label=viewers" width="100">
 
 <p align="center">
 remaking github . . . ata ➜ <a href="https://dvelowbooks.atabook.org/" style="text-decoration: none;"><span style="color: #bf5656;">here</span></a>  disc ➜ dvelow.
