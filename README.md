@@ -2,7 +2,7 @@
 
 
 <p align="center">
-remaking github . . . ata ➜ <a href="https://dvelowbooks.atabook.org/" style="text-decoration: none;"><span style="color: #bf5656;">here</span></a>  disc ➜ dvelow.
+remaking github . . . ata ➜ <a href="https://dvelowbooks.atabook.org/" style="text-decoration: none;"><span style="color: #bf5656;">here</span></a> 
 
 <div align="center">
 
