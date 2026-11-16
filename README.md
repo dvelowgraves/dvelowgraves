@@ -49,7 +49,7 @@
 <br/>
 ask 2 bmf / c+h enc unless dni &nbsp; . &nbsp; ◌ 🧊
 <br/>
-go to follow list for extended friendlist, friend group doesnt have git ;n;
+go to follow list for extended friendlist, friend group doesn't have git ;n;
 <br/>
 ﹑⟡ &nbsp; . &nbsp; <a href="https://dvelowbooks.atabook.org/">Ata</a> &nbsp; . &nbsp; Straw ➜ on the making &nbsp; . &nbsp; ◞ 🐟
 <br/>
