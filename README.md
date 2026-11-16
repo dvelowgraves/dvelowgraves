@@ -45,7 +45,7 @@
 <br/><br/>
 
 <p align="center">
-🩺 &nbsp; <b>Vel . Character name</b> &nbsp; 𓈒 𓏴𓏴
+🧊 &nbsp; <b>Vel . Character name</b> &nbsp; 𓈒 𓏴𓏴
 <br/>
 ask 2 bmf / c+h enc unless dni &nbsp; . &nbsp; ◌ 🧊
 <br/>
