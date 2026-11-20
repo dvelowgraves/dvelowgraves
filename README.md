@@ -58,8 +58,11 @@ go to follow list for extended friendlist, friend group doesn't have git ;n;
 
 <br/>
 <img src="https://file.garden/arczp_Zx3nHhGTD-/dividerbottom.png" width="440" alt="Bottom Divider"/>
+<br/>
+  <a href="https://github.com/Pale-Garden">strongest duo maxxing</a>
 </td>
 </tr>
 </table>
 
 </div>
+<td align="center" valign="middle" style="padding-left: 20px;">
