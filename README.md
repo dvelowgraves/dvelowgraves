@@ -29,7 +29,7 @@
 </td>
 <td align="center" valign="middle">
 <a href="https://open.spotify.com/search/Saturday%20Nights%20INOHA">
-<img src="https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb" width="48" height="48" alt="Saturday Nights Cover"/>
+<img src="https://file.garden/arczp_Zx3nHhGTD-/cooo.png" width="48" height="48" alt="Saturday Nights Cover"/>
 </a>
 </td>
 <td align="left" valign="middle">
