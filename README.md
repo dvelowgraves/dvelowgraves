@@ -57,7 +57,7 @@ go to follow list, friendlist, friend group doesnt have git ;n;
 </p>
 
 <br/>
-<img src="https://media.discordapp.net/attachments/1030208691435208775/1573482161791565984/Untitled44_20261120183556.png?ex=6b022af5&is=6b00d975&hm=b8da16c9e0a24ba635bab2609ebd84eba23e50e14b8a57798c9cb167e5de1435&format=webp&quality=lossless&width=1536&height=751" width="440" alt="Bottom Divider"/>
+<img src="https://file.garden/arczp_Zx3nHhGTD-/coldidivider.png" width="440" alt="Bottom Divider"/>
 <br/>
 <a href="https://github.com/Pale-Garden">strongest duo maxxing</a>
 
